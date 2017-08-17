@@ -34,6 +34,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'zurb-foundation'
 # active model serializer
 gem 'active_model_serializers'
+# public activity gem
+gem 'public_activity'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
