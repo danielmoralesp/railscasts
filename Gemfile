@@ -38,6 +38,8 @@ gem 'active_model_serializers'
 gem 'public_activity'
 # clien side validations
 gem 'client_side_validations'
+# unicorn
+gem 'unicorn'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development

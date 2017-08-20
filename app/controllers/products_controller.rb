@@ -1,10 +1,14 @@
 class ProductsController < ApplicationController
   before_action :set_product, only: [:show, :edit, :update, :destroy]
 
+  # stream para todos los metodos
+  # stream
+
   # GET /products
   # GET /products.json
   def index
     @products = Product.all
+    # render stream: true
   end
 
   # GET /products/1
