@@ -40,6 +40,8 @@ gem 'public_activity'
 gem 'client_side_validations'
 # unicorn
 gem 'unicorn'
+# resque
+gem 'resque'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
