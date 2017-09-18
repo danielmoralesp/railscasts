@@ -42,6 +42,8 @@ gem 'client_side_validations'
 gem 'unicorn'
 # resque
 gem 'resque'
+# geocode
+gem 'geocoder'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
